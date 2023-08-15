@@ -32,3 +32,6 @@ go build -o bin/docker-tar-push cmd/docker-tar-push/main.go
 
 ## Reference
 1. https://blog.csdn.net/github_19391267/article/details/107274210
+2. https://docs.docker.com/registry/spec/api/
+3. https://sreekesh-s.medium.com/uploading-docker-images-using-docker-registry-api-golang-5242ccb0d3dd
+4. https://github.com/distribution/distribution
