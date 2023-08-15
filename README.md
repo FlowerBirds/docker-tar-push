@@ -29,3 +29,6 @@ docker-tar-push alpine:latest --registry=http://localhost:5000
 ```sh
 go build -o bin/docker-tar-push cmd/docker-tar-push/main.go
 ```
+
+## Reference
+1. https://blog.csdn.net/github_19391267/article/details/107274210
